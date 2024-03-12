@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ecr-prometheus:
+  - apiVersion: v2
+    appVersion: 0.1.5
+    created: "2024-03-12T13:59:25.384019-07:00"
+    description: A Helm chart for aws-ecr-image-scan-findings-prometheus-exporter
+    digest: d822e2fa5af1cc865141b4035250ef08becd517eed78c19a6ef933d46bd94673
+    name: ecr-prometheus
+    type: application
+    urls:
+    - https://winiz.github.io/helm-chart/ecr-prometheus-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-12T13:59:25.382546-07:00"
